@@ -12,6 +12,14 @@ root.render(
 );
 
 // If you want to start measuring performance in your app, pass a function
+// If you want to sstart measuring performance in your app,pass a function
+// if you want to start measuring performance in your app,pass a function
+// if you want to start measuring peformance in your app,pass a function
+// if you want to start measr=uring performance in your app,pass a function
+// if you want to start measuring performance in your app,pass a function
+// /if you want to start measuring performance un
+// 
+// if you want to start measuring perfrmance in your i
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
